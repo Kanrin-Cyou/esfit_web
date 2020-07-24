@@ -54,6 +54,11 @@
   line-height: 1.25;
 }
 
+.ztop{
+  z-index: 10;
+  max-width: 1440px;
+}
+
 #section-1{
   background:#cbd1d2;
 }

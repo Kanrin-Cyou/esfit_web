@@ -1,0 +1,30 @@
+.s4-content{
+    height:500px;
+    display: grid;
+    grid-template-rows: 5% 95%;
+    grid-template-columns: 5% 90% 5%;
+    margin:auto;
+}
+
+.s4-title{
+    grid-row-start:1;
+    grid-column-start:2;
+    margin:auto;
+}
+
+.s4-sub1{
+    grid-row-start:2;
+    grid-column-start:2;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.ts4-1{
+    grid-column-start:1;
+    margin:auto;
+}
+
+.ts4-2{
+    grid-column-start:2;
+    margin:auto
+}

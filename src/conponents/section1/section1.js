@@ -1,5 +1,6 @@
 import React from 'react';
 import Pic from "./simple.jpg";
+
 import './section1.css';
 
 const Section1 = (props) =>{

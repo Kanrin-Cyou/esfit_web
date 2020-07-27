@@ -1,19 +1,21 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
+import Logopic from './logo.png';
+import './Navbar.css';
 
 const Navbar = () => {
     return(
-
-        <div class="bg-white fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l shadow-4 ztop">
-            <nav class="f6 fw6 ttu tracked">
-                <Link class="link dim black dib mr3" href="#" title="Home">Home</Link>
-                <Link class="link dim black dib mr3" href="#" title="About">About</Link>
-                <Link class="link dim black dib mr3" href="#" title="Store">Store</Link>
-                <Link class="link dim black dib" href="#" title="Contact">Contact</Link>
+        <div className="bg-white fixed w-100 ph4 pv4 pv4-ns ph4-m ph5-l shadow-4 ztop">
+            <nav className="navlayout f4 fw4 ttu tracked" style={{margin:"auto"}}>
+                <img className='logo' width="45px" src={Logopic} alt='logo'></img>
+                <div className='navcontent'>
+                    <Link className="link dim black dib mr3" href="#" title="Home">关于我们</Link>
+                    <Link className="link dim black dib mr3" href="#" title="About">主营业务</Link>
+                    <Link className="link dim black dib mr3" href="#" title="Contact">联系我们</Link>
+                </div>
             </nav>
         </div>
 
     )
 }
-
 export default Navbar;

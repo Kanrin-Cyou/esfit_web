@@ -1,0 +1,13 @@
+.navlayout{
+    display:grid;
+    grid-template-columns: 5% 5% 40% 50%;
+}
+
+.logo{
+    grid-column-start:2;
+}
+
+.navcontent{
+    grid-column-start:3;
+    margin:auto;
+}

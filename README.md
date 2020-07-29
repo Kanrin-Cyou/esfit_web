@@ -1,2 +1,1 @@
-npm install react
-npm start
+npm install react<br/>npm start

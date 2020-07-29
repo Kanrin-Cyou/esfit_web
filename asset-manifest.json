@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/esfit_web/static/css/main.022a0bf9.chunk.css",
+    "main.js": "/esfit_web/static/js/main.67e9e930.chunk.js",
+    "main.js.map": "/esfit_web/static/js/main.67e9e930.chunk.js.map",
+    "runtime-main.js": "/esfit_web/static/js/runtime-main.c71254fe.js",
+    "runtime-main.js.map": "/esfit_web/static/js/runtime-main.c71254fe.js.map",
+    "static/js/2.c3476bd7.chunk.js": "/esfit_web/static/js/2.c3476bd7.chunk.js",
+    "static/js/2.c3476bd7.chunk.js.map": "/esfit_web/static/js/2.c3476bd7.chunk.js.map",
+    "index.html": "/esfit_web/index.html",
+    "precache-manifest.df9cebe281c3a97b3cbbc4d806f2b1db.js": "/esfit_web/precache-manifest.df9cebe281c3a97b3cbbc4d806f2b1db.js",
+    "service-worker.js": "/esfit_web/service-worker.js",
+    "static/css/main.022a0bf9.chunk.css.map": "/esfit_web/static/css/main.022a0bf9.chunk.css.map",
+    "static/js/2.c3476bd7.chunk.js.LICENSE.txt": "/esfit_web/static/js/2.c3476bd7.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/esfit_web/static/media/logo.d63e3714.png",
+    "static/media/s3-1.jpg": "/esfit_web/static/media/s3-1.01af0e43.jpg",
+    "static/media/s3-2.jpg": "/esfit_web/static/media/s3-2.239947ea.jpg",
+    "static/media/s3-3.jpg": "/esfit_web/static/media/s3-3.ba0f2f3a.jpg",
+    "static/media/section2-1.jpg": "/esfit_web/static/media/section2-1.533406c6.jpg",
+    "static/media/simple.jpg": "/esfit_web/static/media/simple.601b7608.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c71254fe.js",
+    "static/js/2.c3476bd7.chunk.js",
+    "static/css/main.022a0bf9.chunk.css",
+    "static/js/main.67e9e930.chunk.js"
+  ]
+}

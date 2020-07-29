@@ -10,4 +10,5 @@
 .navcontent{
     grid-column-start:3;
     margin:auto;
+    float:left;
 }

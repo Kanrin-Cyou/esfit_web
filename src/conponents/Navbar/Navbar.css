@@ -1,6 +1,7 @@
 .navlayout{
     display:grid;
     grid-template-columns: 5% 5% 40% 50%;
+    min-width:1000px;
 }
 
 .logo{

@@ -36,20 +36,6 @@
   margin:auto;
 }
 
-.content{
-  display: grid;
-  grid-template-columns: 10% 40% 40% 10%;
-}
-
-.content-left{
-  grid-column-start:2;
-}
-
-.content-right{
-  grid-column-start:3;
-}
-
-
 .lh25{
   line-height: 1.25;
 }
@@ -66,16 +52,28 @@
 
 #section-2{
   background:#fff;
+  height:auto;
+  padding-top:80px;
+  padding-bottom:80px;
 }
 
 #section-3{
   background:#404040;
+  height:1320px;
+  padding-top:40px;
+  padding-bottom:40px;
 }
 
 #section-4{
   background:#cbd1d2;
+  height:auto;
+  padding-top:20px;
+  padding-bottom:20px;
 }
 
 #section-5{
-  background:#404040;
+  background:#fff;
+  height:auto;
+  padding-top:80px;
+  padding-bottom:80px;
 }

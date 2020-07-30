@@ -8,8 +8,8 @@ const Section1 = (props) =>{
             <div id="section-1" className='bigbox'>
                 <div className='s1-content'>
                     <div className='s1-content-left contentbox fw4'>
-                        <p className='f1 pa2'>ESFIT 株式会社</p>
-                        <p className='f4 pa2'>Discovering special people producing extraordinary products</p>
+                        <p className='f2 pa2'>エス・フィット株式会社</p>
+                        <p className='f4 pa2'>不動産価値の最大化を目指しています</p>
                     </div>
 
                     <div className='s1-content-right'>
@@ -21,4 +21,4 @@ const Section1 = (props) =>{
         );
 }
 
-export default Section1;
+export default Section1

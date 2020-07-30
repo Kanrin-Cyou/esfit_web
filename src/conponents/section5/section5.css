@@ -1,13 +1,17 @@
-.s2-content{
+.s5-content{
     display: grid;
     grid-template-columns: 5% 42.5% 5% 42.5% 5%;
 }
 
-.s2-content-left{
+.s5-content-left{
     grid-column-start:2;
 }
 
-.s2-content-right{
+.s5-content-right{
     grid-column-start:4;
     grid-column-end:5;
+}
+
+.s5-infocontent{
+    padding-left:80px;
 }

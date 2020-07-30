@@ -1,7 +1,7 @@
 
 .s1-content{
     display: grid;
-    grid-template-columns: 10% 35% 55%;
+    grid-template-columns: 10% 45% 45%;
 }
 
 .s1-content-left{
